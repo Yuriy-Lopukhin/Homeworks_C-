@@ -1,7 +1,7 @@
 ﻿Console.Write("Введите первое число: ");
 int FirstUserNumber = int.Parse(Console.ReadLine() ?? "");    //Ввод первого числа
-Console.Write("Введите первое число: ");
-int SecondUserNumber = int.Parse(Console.ReadLine() ?? "");    //Ввод первого числа
+Console.Write("Введите второе число: ");
+int SecondUserNumber = int.Parse(Console.ReadLine() ?? "");    //Ввод второго числа
 
 if (FirstUserNumber > SecondUserNumber)  // Определяем, какое число больше и выводим результат
     Console.WriteLine($"a = {FirstUserNumber} b = {SecondUserNumber} -> max = {FirstUserNumber}");

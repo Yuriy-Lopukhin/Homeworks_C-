@@ -1,0 +1,15 @@
+L:\C# Homeworks\Seminar1\HW8\obj\Debug\net7.0\HW8.csproj.AssemblyReference.cache
+L:\C# Homeworks\Seminar1\HW8\obj\Debug\net7.0\HW8.GeneratedMSBuildEditorConfig.editorconfig
+L:\C# Homeworks\Seminar1\HW8\obj\Debug\net7.0\HW8.AssemblyInfoInputs.cache
+L:\C# Homeworks\Seminar1\HW8\obj\Debug\net7.0\HW8.AssemblyInfo.cs
+L:\C# Homeworks\Seminar1\HW8\obj\Debug\net7.0\HW8.csproj.CoreCompileInputs.cache
+L:\C# Homeworks\Seminar1\HW8\bin\Debug\net7.0\HW8.exe
+L:\C# Homeworks\Seminar1\HW8\bin\Debug\net7.0\HW8.deps.json
+L:\C# Homeworks\Seminar1\HW8\bin\Debug\net7.0\HW8.runtimeconfig.json
+L:\C# Homeworks\Seminar1\HW8\bin\Debug\net7.0\HW8.dll
+L:\C# Homeworks\Seminar1\HW8\bin\Debug\net7.0\HW8.pdb
+L:\C# Homeworks\Seminar1\HW8\obj\Debug\net7.0\HW8.dll
+L:\C# Homeworks\Seminar1\HW8\obj\Debug\net7.0\refint\HW8.dll
+L:\C# Homeworks\Seminar1\HW8\obj\Debug\net7.0\HW8.pdb
+L:\C# Homeworks\Seminar1\HW8\obj\Debug\net7.0\HW8.genruntimeconfig.cache
+L:\C# Homeworks\Seminar1\HW8\obj\Debug\net7.0\ref\HW8.dll

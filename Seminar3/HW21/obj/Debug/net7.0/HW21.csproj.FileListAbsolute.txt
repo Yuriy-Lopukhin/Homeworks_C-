@@ -1,0 +1,15 @@
+L:\C# Homeworks\Seminar3\HW21\obj\Debug\net7.0\HW21.csproj.AssemblyReference.cache
+L:\C# Homeworks\Seminar3\HW21\obj\Debug\net7.0\HW21.GeneratedMSBuildEditorConfig.editorconfig
+L:\C# Homeworks\Seminar3\HW21\obj\Debug\net7.0\HW21.AssemblyInfoInputs.cache
+L:\C# Homeworks\Seminar3\HW21\obj\Debug\net7.0\HW21.AssemblyInfo.cs
+L:\C# Homeworks\Seminar3\HW21\obj\Debug\net7.0\HW21.csproj.CoreCompileInputs.cache
+L:\C# Homeworks\Seminar3\HW21\bin\Debug\net7.0\HW21.exe
+L:\C# Homeworks\Seminar3\HW21\bin\Debug\net7.0\HW21.deps.json
+L:\C# Homeworks\Seminar3\HW21\bin\Debug\net7.0\HW21.runtimeconfig.json
+L:\C# Homeworks\Seminar3\HW21\bin\Debug\net7.0\HW21.dll
+L:\C# Homeworks\Seminar3\HW21\bin\Debug\net7.0\HW21.pdb
+L:\C# Homeworks\Seminar3\HW21\obj\Debug\net7.0\HW21.dll
+L:\C# Homeworks\Seminar3\HW21\obj\Debug\net7.0\refint\HW21.dll
+L:\C# Homeworks\Seminar3\HW21\obj\Debug\net7.0\HW21.pdb
+L:\C# Homeworks\Seminar3\HW21\obj\Debug\net7.0\HW21.genruntimeconfig.cache
+L:\C# Homeworks\Seminar3\HW21\obj\Debug\net7.0\ref\HW21.dll

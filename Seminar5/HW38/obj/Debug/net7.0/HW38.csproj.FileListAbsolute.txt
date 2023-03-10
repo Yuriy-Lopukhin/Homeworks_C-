@@ -1,0 +1,15 @@
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\obj\Debug\net7.0\HW38.csproj.AssemblyReference.cache
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\obj\Debug\net7.0\HW38.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\obj\Debug\net7.0\HW38.AssemblyInfoInputs.cache
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\obj\Debug\net7.0\HW38.AssemblyInfo.cs
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\obj\Debug\net7.0\HW38.csproj.CoreCompileInputs.cache
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\bin\Debug\net7.0\HW38.exe
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\bin\Debug\net7.0\HW38.deps.json
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\bin\Debug\net7.0\HW38.runtimeconfig.json
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\bin\Debug\net7.0\HW38.dll
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\bin\Debug\net7.0\HW38.pdb
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\obj\Debug\net7.0\HW38.dll
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\obj\Debug\net7.0\refint\HW38.dll
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\obj\Debug\net7.0\HW38.pdb
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\obj\Debug\net7.0\HW38.genruntimeconfig.cache
+D:\C# Repositories\Homeworks\Homeworks_C-\Seminar5\HW38\obj\Debug\net7.0\ref\HW38.dll

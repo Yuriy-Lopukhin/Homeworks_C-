@@ -1,0 +1,5 @@
+L:\C# Homeworks\Seminar6\HW43\obj\Debug\net7.0\HW43.csproj.AssemblyReference.cache
+L:\C# Homeworks\Seminar6\HW43\obj\Debug\net7.0\HW43.GeneratedMSBuildEditorConfig.editorconfig
+L:\C# Homeworks\Seminar6\HW43\obj\Debug\net7.0\HW43.AssemblyInfoInputs.cache
+L:\C# Homeworks\Seminar6\HW43\obj\Debug\net7.0\HW43.AssemblyInfo.cs
+L:\C# Homeworks\Seminar6\HW43\obj\Debug\net7.0\HW43.csproj.CoreCompileInputs.cache

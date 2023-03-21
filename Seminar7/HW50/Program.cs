@@ -56,7 +56,7 @@ void PrintPosition(int[,] arr, int value1, int value2)
 
     res = arr[value1, value2];
 
-    if (res == 0) Console.WriteLine($"В массиве нет позиции с таким индексом!");
+    if (res == 0 ) Console.WriteLine($"В массиве нет позиции с таким индексом!");
 
     else Console.WriteLine($"В заданном массиве элемент с индексом [{value1}, {value2}] имеет значение {res}!");
 }

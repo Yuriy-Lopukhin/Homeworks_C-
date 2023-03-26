@@ -1,0 +1,15 @@
+L:\C# Homeworks\Seminar9\HW66\bin\Debug\net7.0\HW66.exe
+L:\C# Homeworks\Seminar9\HW66\bin\Debug\net7.0\HW66.deps.json
+L:\C# Homeworks\Seminar9\HW66\bin\Debug\net7.0\HW66.runtimeconfig.json
+L:\C# Homeworks\Seminar9\HW66\bin\Debug\net7.0\HW66.dll
+L:\C# Homeworks\Seminar9\HW66\bin\Debug\net7.0\HW66.pdb
+L:\C# Homeworks\Seminar9\HW66\obj\Debug\net7.0\HW66.csproj.AssemblyReference.cache
+L:\C# Homeworks\Seminar9\HW66\obj\Debug\net7.0\HW66.GeneratedMSBuildEditorConfig.editorconfig
+L:\C# Homeworks\Seminar9\HW66\obj\Debug\net7.0\HW66.AssemblyInfoInputs.cache
+L:\C# Homeworks\Seminar9\HW66\obj\Debug\net7.0\HW66.AssemblyInfo.cs
+L:\C# Homeworks\Seminar9\HW66\obj\Debug\net7.0\HW66.csproj.CoreCompileInputs.cache
+L:\C# Homeworks\Seminar9\HW66\obj\Debug\net7.0\HW66.dll
+L:\C# Homeworks\Seminar9\HW66\obj\Debug\net7.0\refint\HW66.dll
+L:\C# Homeworks\Seminar9\HW66\obj\Debug\net7.0\HW66.pdb
+L:\C# Homeworks\Seminar9\HW66\obj\Debug\net7.0\HW66.genruntimeconfig.cache
+L:\C# Homeworks\Seminar9\HW66\obj\Debug\net7.0\ref\HW66.dll

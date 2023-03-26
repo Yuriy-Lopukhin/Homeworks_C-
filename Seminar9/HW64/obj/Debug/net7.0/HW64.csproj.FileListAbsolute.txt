@@ -1,0 +1,15 @@
+L:\C# Homeworks\Seminar9\HW64\bin\Debug\net7.0\HW64.exe
+L:\C# Homeworks\Seminar9\HW64\bin\Debug\net7.0\HW64.deps.json
+L:\C# Homeworks\Seminar9\HW64\bin\Debug\net7.0\HW64.runtimeconfig.json
+L:\C# Homeworks\Seminar9\HW64\bin\Debug\net7.0\HW64.dll
+L:\C# Homeworks\Seminar9\HW64\bin\Debug\net7.0\HW64.pdb
+L:\C# Homeworks\Seminar9\HW64\obj\Debug\net7.0\HW64.csproj.AssemblyReference.cache
+L:\C# Homeworks\Seminar9\HW64\obj\Debug\net7.0\HW64.GeneratedMSBuildEditorConfig.editorconfig
+L:\C# Homeworks\Seminar9\HW64\obj\Debug\net7.0\HW64.AssemblyInfoInputs.cache
+L:\C# Homeworks\Seminar9\HW64\obj\Debug\net7.0\HW64.AssemblyInfo.cs
+L:\C# Homeworks\Seminar9\HW64\obj\Debug\net7.0\HW64.csproj.CoreCompileInputs.cache
+L:\C# Homeworks\Seminar9\HW64\obj\Debug\net7.0\HW64.dll
+L:\C# Homeworks\Seminar9\HW64\obj\Debug\net7.0\refint\HW64.dll
+L:\C# Homeworks\Seminar9\HW64\obj\Debug\net7.0\HW64.pdb
+L:\C# Homeworks\Seminar9\HW64\obj\Debug\net7.0\HW64.genruntimeconfig.cache
+L:\C# Homeworks\Seminar9\HW64\obj\Debug\net7.0\ref\HW64.dll
